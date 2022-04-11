@@ -12,12 +12,22 @@ function Museums() {
         });
     }, []);
 
+    function renderMuseums(pMuseums){
+        for(let i = 0; i < pMuseums.length; i++){
+            
+        }
+    }
+
     return (
         <div className="container">
             <div className="row text-center">
                 Museums
             </div>
             <hr/>
+            <div className='container'>
+                
+
+            </div>
         </div>
     );
 }

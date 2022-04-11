@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="#">
-        Museos de arte moderno
+        Museos de arte moderno 2
       </a>
       <button
         className="navbar-toggler"
